@@ -1,0 +1,9 @@
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Data.Advisor\bin\Debug\Data.Advisor.dll
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Data.Advisor\bin\Debug\Data.Advisor.pdb
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Data.Advisor\bin\Debug\Common.Advisor.dll
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Data.Advisor\bin\Debug\Dapper.dll
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Data.Advisor\bin\Debug\Common.Advisor.pdb
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Data.Advisor\bin\Debug\Dapper.xml
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Data.Advisor\obj\Debug\Data.Advisor.csprojResolveAssemblyReference.cache
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Data.Advisor\obj\Debug\Data.Advisor.dll
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Data.Advisor\obj\Debug\Data.Advisor.pdb

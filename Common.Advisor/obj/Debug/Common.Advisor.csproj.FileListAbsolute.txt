@@ -1,0 +1,5 @@
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Common.Advisor\bin\Debug\Common.Advisor.dll
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Common.Advisor\bin\Debug\Common.Advisor.pdb
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Common.Advisor\obj\Debug\Common.Advisor.csprojResolveAssemblyReference.cache
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Common.Advisor\obj\Debug\Common.Advisor.dll
+c:\Users\sandeepp\documents\visual studio 2015\Projects\Advisor\Common.Advisor\obj\Debug\Common.Advisor.pdb
