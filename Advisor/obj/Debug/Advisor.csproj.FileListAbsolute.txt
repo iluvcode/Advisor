@@ -77,3 +77,9 @@ c:\users\sandeepp\documents\visual studio 2015\Projects\Advisor\Advisor\bin\Micr
 c:\users\sandeepp\documents\visual studio 2015\Projects\Advisor\Advisor\obj\Debug\Advisor.csprojResolveAssemblyReference.cache
 c:\users\sandeepp\documents\visual studio 2015\Projects\Advisor\Advisor\obj\Debug\Advisor.dll
 c:\users\sandeepp\documents\visual studio 2015\Projects\Advisor\Advisor\obj\Debug\Advisor.pdb
+C:\Users\sandeepp\Documents\Visual Studio 2015\Projects\Advisor\Advisor\bin\Common.Advisor.dll
+C:\Users\sandeepp\Documents\Visual Studio 2015\Projects\Advisor\Advisor\bin\Data.Advisor.dll
+C:\Users\sandeepp\Documents\Visual Studio 2015\Projects\Advisor\Advisor\bin\Dapper.dll
+C:\Users\sandeepp\Documents\Visual Studio 2015\Projects\Advisor\Advisor\bin\Common.Advisor.pdb
+C:\Users\sandeepp\Documents\Visual Studio 2015\Projects\Advisor\Advisor\bin\Data.Advisor.pdb
+C:\Users\sandeepp\Documents\Visual Studio 2015\Projects\Advisor\Advisor\bin\Dapper.xml
